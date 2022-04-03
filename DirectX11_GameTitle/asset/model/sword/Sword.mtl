@@ -1,0 +1,38 @@
+# Blender MTL File: 'Sword.blend'
+# Material Count: 3
+
+newmtl Blade
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 Textures\\Metal 6 cco 4K\\Metal06_nrm.jpg
+map_Kd Textures\\Metal6cco4K\\Metal06_col.jpg
+map_Ns Textures\\Metal 6 cco 4K\\Metal06_rgh.jpg
+
+newmtl Handle
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Textures\\Metal6cco4K\\Metal06_col.jpg
+
+newmtl Handle_decoration
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures\\Handledecoration\\Ice02_col.jpg
+map_Ns Textures\\Handle decoration\\Ice02_rgh.jpg
